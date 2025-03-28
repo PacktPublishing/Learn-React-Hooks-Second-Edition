@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "React Hooks",
+      "content": "The greatest thing since sliced bread!",
+      "author": "Daniel Bugl",
+      "featured": false
+    },
+    {
+      "id": "2",
+      "title": "Using React Fragments",
+      "content": "Keeping the DOM tree clean!",
+      "author": "Daniel Bugl",
+      "featured": false
+    },
+    {
+      "id": "3",
+      "title": "React Context",
+      "content": "Manage global state with ease!",
+      "author": "Daniel Bugl",
+      "featured": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "Daniel Bugl",
+      "password": "hunter2"
+    }
+  ]
+}
