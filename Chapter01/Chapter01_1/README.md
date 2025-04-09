@@ -27,3 +27,11 @@ To start the app in development mode, run the following command:
 ```bash
 npm run dev
 ```
+
+## Linting
+
+To execute the linter, run the following command:
+
+```bash
+npm run lint
+```
